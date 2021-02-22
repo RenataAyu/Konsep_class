@@ -1,0 +1,2 @@
+# Konsep_class
+ 
